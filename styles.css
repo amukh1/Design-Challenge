@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&display=swap');
-
+@import url('https://css.gg/add-r.css');
 body {
     margin: 0;
     padding: 0;
@@ -29,18 +29,20 @@ body {
     margin-bottom: 5px;
     border: 2px solid black;
     background-color: white;
-    
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;
 }
 
 .b {
     transition: all 0.5s;
     border-radius: 50px;
-    padding: 10px;
+    padding: 5px;
     width: 40%;
     margin-bottom: 5px;
     border: 2px solid black;
     background-color: white;
-    font-size: 50px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;
 }
 
 .i:hover {
@@ -75,20 +77,23 @@ body {
     flex-direction: row;
 }
 
-.headx {
- font-size: 200px;
+.headx{
+    font-size: 200px;
 }
 
 .headxx {
     font-size: 50px;
+
 }
 
 .signup {
     transition:    all  0.5s;
-    padding: 20px;
+    padding: 10px;
     background-color: rgb(173, 173, 255);
     border: none;
     border-radius: 5px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;
 }
 
 .signup:hover {
