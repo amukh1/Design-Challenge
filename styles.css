@@ -79,6 +79,7 @@ body {
 
 .headx{
     font-size: 200px;
+    transition: all 0.5s;
 }
 
 .headxx {
