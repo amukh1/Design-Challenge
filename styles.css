@@ -99,6 +99,10 @@ body {
     text-shadow: whitesmoke 0.5px 0 10px;
 }
 
+.headx:hover {
+    transform: scaleY(1.1);
+}
+
 .headxx {
     font-size: 50px;
     margin-bottom: 5%;
