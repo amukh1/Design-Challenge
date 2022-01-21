@@ -95,6 +95,7 @@ body {
 }
 
 .headx{
+    transition: 0.5;
     font-size: 200px;
     text-shadow: whitesmoke 0.5px 0 10px;
 }
