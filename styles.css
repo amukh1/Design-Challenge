@@ -95,13 +95,14 @@ body {
 }
 
 .headx{
-    transition: all 0.5s;
+    transition-duration: all 0.5s;
     font-size: 200px;
     text-shadow: whitesmoke 0.5px 0 10px;
 }
 
 .headx:hover {
     transform: scale(1.1);
+    
 }
 
 .headxx {
