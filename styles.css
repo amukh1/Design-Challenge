@@ -112,10 +112,6 @@ body {
 
 }
 
-.headxx:hover {
-    color: rgb (23, 235, 231);
-}
-
 .signup {
     transition:    all  0.5s;
     padding: 10px;
