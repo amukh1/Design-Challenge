@@ -24,6 +24,10 @@ body {
     font-size: 3em;
 }
 
+::placeholder {
+    color:rgb(191, 212, 245);
+}
+
 .sh {
     margin-bottom: 7%;
     background: rgb(61,61,83);
