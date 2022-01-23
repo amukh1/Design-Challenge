@@ -115,6 +115,10 @@ body {
 text-align: center;
 }
 
+.headxx:hover {
+    transform: scale(1.05);
+}
+
 .signup {
     transition:    all  0.5s;
     padding: 10px;
