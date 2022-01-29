@@ -101,9 +101,7 @@ body {
 .headx{
     transition-duration: 0.5s;
     font-size: 200px;
-    text-shadow: whitesmoke 0.5px 0 10px;
-    font-family: 'Gloria Hallelujah', cursive;
-}
+    text-shadow: whitesmoke 0.5px 0 10px;}
 
 .headx:hover {
     transform: scale(1.1);
@@ -112,10 +110,10 @@ body {
 
 .headxx {
     font-size: 50px;
+    font-family: 'Gloria Hallelujah', cursive;
     margin-bottom: 5%;
     text-shadow: whitesmoke 1px 0 10px;
     text-align: center;
-    animation: type 4s steps(60, end)
 }
 
 .headxx:hover {
